@@ -1,4 +1,4 @@
-# Simple Interoperability Framework 
+# Simple
 A no-framework implementation based on different open-source components
 
 In this learning project I want to implement the following components:
