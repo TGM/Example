@@ -1,4 +1,4 @@
-# Simple Interoperability Framework
+# Example Interoperability Framework
 
 A no-framework implementation based on different open-source components
 
